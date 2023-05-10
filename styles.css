@@ -1,0 +1,143 @@
+*{
+    background-color: #B8E7E1;
+}
+.container{
+    margin-top: 200px;
+    margin-left: 450px;
+    position: relative;
+}
+.My{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color:#19A7CE;
+}
+.sr{
+    height: 400px;
+    width: 700px;
+}
+.ne{
+    position:absolute;
+    top:-150px;
+    left:700px;
+}
+.contain{
+    margin-top: 40px;
+    margin-left: 450px;
+   
+}
+.ka{
+    position:absolute;
+    top:+250px;
+    right:1200px;
+}
+.hari{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.s{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-top: 120px;
+}
+.ram{
+ 
+font-family:  cursive;
+color:#0F6292;
+font-size: 50px;
+height: 300px;
+width: 900px;
+text-align: center;
+margin-left: 230px;
+
+}
+.krish{
+    margin-top:500px;
+    width: 50px;
+    border: 8px dotted brown;
+    border-bottom: 0ch;
+    border-width: 8px;
+   margin-left: 650px;
+   margin-top: 400px;
+ 
+}
+.sy{
+    float:left;
+    position: relative;
+    left:210px;
+    height: 200px;
+}
+.kal{
+    font-size: 25px;
+    color:#1C82AD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sy2{
+    float:left;
+    position: relative;
+    left:210px;
+    height: 220px;
+    width:300px;
+}
+.kal2{
+    font-size: 25px;
+    color:#1C82AD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.srk2{
+    margin-top: 100px;
+}
+.kris{
+    
+        margin-top:500px;
+        width: 50px;
+        border: 8px dotted brown;
+        border-bottom: 0ch;
+        border-width: 8px;
+       margin-left: 650px;
+       margin-top: 110px;
+    }
+    .btn{
+        height: 50px;
+        width: 170px;
+        text-decoration: none;
+        font-size:20px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-style: inherit;
+        background-color:
+        #A4D0A4;
+        border: 0ch;
+        border-radius: 50%;
+    }
+    .pitaji{
+        position: relative;
+        top:50px;
+        width:100%;
+        height: 170px;
+        background-color: #A4D0A4;
+        position: relative;
+        word-spacing: 90px;
+        
+    }
+    .li , .gi{
+        text-decoration: none;
+        font-size: x-large;
+        position: relative;
+        left:600px;
+        top:80px;
+        background-color:#A4D0A4;
+        border-radius: 50%;
+    
+       
+       
+
+    }
+    .hu{
+        color:navy;
+        font-size: 20px;
+        position: relative;
+        top:80px;
+
+    }
